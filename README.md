@@ -28,7 +28,7 @@
 
 ---
 
-<!-- ### :star: [starz.beauty](https://starz.beauty/), [starz.beauty/taplink](https://starz.beauty/taplink.html)
+### :star: [starz.beauty](https://starz.beauty/), [starz.beauty/taplink](https://starz.beauty/taplink.html)
 
 <div align="center">
   <img src="/assets/img/starz.beauty/preview1.jpg" alt="preview" width="300"/>&nbsp;<img src="/assets/img/starz.beauty/preview2.jpg" alt="preview" width="300"/>&nbsp;<img src="/assets/img/starz.beauty/preview3.jpg" alt="preview" width="300"/>
@@ -49,7 +49,7 @@
 - [jquery-custom-select](https://github.com/kvlsrg/jquery-custom-select)
 - сборка gulp
 
---- -->
+---
 
 ### :sparkles: [starzbeauty.store](https://starzbeauty.store/)
 
